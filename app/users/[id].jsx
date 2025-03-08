@@ -4,7 +4,7 @@ import React from 'react'
 const UserInfo = () => {
   return (
     <View>
-      <Text>UserInfo</Text>
+      <Text>Usernfo</Text>
     </View>
   )
 }
